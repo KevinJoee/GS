@@ -10,4 +10,5 @@
 # Results
 
 https://github.com/KevinJoee/GS/blob/main/assets/video.mp4
+https://github.com/KevinJoee/GS/blob/main/assets/jumpingjacks.mp4
   
