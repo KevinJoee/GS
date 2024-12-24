@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/14d7c2cc-de5f-48f7-97e9-f2911f5068e7)
 
 # Results
-
+[
 [https://github.com/KevinJoee/GS/blob/main/assets/video.mp4
-https://github.com/KevinJoee/GS/blob/main/assets/jumpingjacks.mp4](https://github.com/user-attachments/assets/27efdb92-2167-423e-84dd-a0fc6a343ad5)
+https://github.com/KevinJoee/GS/blob/main/assets/jumpingjacks.mp4](https://github.com/user-attachments/assets/27efdb92-2167-423e-84dd-a0fc6a343ad5)](https://github.com/user-attachments/assets/eef775fa-fde6-4bbe-afce-dd10fa364a91)
   
