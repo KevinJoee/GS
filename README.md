@@ -9,6 +9,6 @@
 
 # Results
 
-https://github.com/KevinJoee/GS/blob/main/assets/video.mp4
-https://github.com/KevinJoee/GS/blob/main/assets/jumpingjacks.mp4
+[https://github.com/KevinJoee/GS/blob/main/assets/video.mp4
+https://github.com/KevinJoee/GS/blob/main/assets/jumpingjacks.mp4](https://github.com/user-attachments/assets/27efdb92-2167-423e-84dd-a0fc6a343ad5)
   
