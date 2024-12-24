@@ -8,7 +8,6 @@
 ![image](https://github.com/user-attachments/assets/14d7c2cc-de5f-48f7-97e9-f2911f5068e7)
 
 # Results
-[
-[https://github.com/KevinJoee/GS/blob/main/assets/video.mp4
-https://github.com/KevinJoee/GS/blob/main/assets/jumpingjacks.mp4](https://github.com/user-attachments/assets/27efdb92-2167-423e-84dd-a0fc6a343ad5)](https://github.com/user-attachments/assets/eef775fa-fde6-4bbe-afce-dd10fa364a91)
+
+https://private-user-images.githubusercontent.com/162864878/398299740-eef775fa-fde6-4bbe-afce-dd10fa364a91.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUwMDc2NDgsIm5iZiI6MTczNTAwNzM0OCwicGF0aCI6Ii8xNjI4NjQ4NzgvMzk4Mjk5NzQwLWVlZjc3NWZhLWZkZTYtNGJiZS1hZmNlLWRkMTBmYTM2NGE5MS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyNFQwMjI5MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmJjODVjNDBlYWM3Nzg5NTM0NmZhZDA3NTQxZDllOTIyNDBkYjcxZDFkZDY1MzJhOWM3YWUwMDU2MzgzYWFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.O61Pnii30-228G91f7ppHE45JixcgP9TVQV-Otavf0Q
   
