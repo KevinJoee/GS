@@ -1,0 +1,9 @@
+torch==1.12.1+cu113
+plyfile==0.8.1
+tqdm
+imageio==2.27.0
+opencv-python
+imageio-ffmpeg
+submodules/depth-diff-gaussian-rasterization
+submodules/simple-knn
+
